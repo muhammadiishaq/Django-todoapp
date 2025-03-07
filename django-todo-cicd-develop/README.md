@@ -2,7 +2,7 @@
 
 A simple yet powerful **To-Do App** built with Django, featuring a **CI/CD pipeline** using Jenkins, GitHub, and Docker for automated deployment.
 
-![To-Do App](https://raw.githubusercontent.com/shreys7/django-todo/develop/staticfiles/todoApp.png)
+![To-Do App](https://raw.githubusercontent.com/shreys7/django-todo/develop/staticfiles/p2.png)
 
 ## 🚀 Features
 - Add, update, and delete tasks effortlessly.
